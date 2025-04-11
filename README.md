@@ -25,8 +25,8 @@ I'm a driven AI enthusiast studying at **Heriot-Watt University, Dubai** (2024 -
 ## 🌐 Connect with Me
 
 - 📧 Email: [joshsajic@gmail.com](mailto:joshsajic@gmail.com)  
-- 🔗 [LinkedIn]([https://www.linkedin.com](http://www.linkedin.com/in/joshua-s-chacko))   
-- 🌍 [Personal Website]([https://www.yourwebsite.com](https://express.adobe.com/page/UPGLpXfdXtwd0/))  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-s-chacko)  
+- 🌍 [Personal Website](https://express.adobe.com/page/UPGLpXfdXtwd0/)  
 
 ---
 
