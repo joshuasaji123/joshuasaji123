@@ -16,7 +16,7 @@ I'm a driven AI enthusiast studying at **Heriot-Watt University, Dubai** (2024 -
 ## 🧠 Skills & Languages
 
 - **Languages**: Python, R, Java, JavaScript, C, OCaml, ACT-R
-- **AI & Tools**: OpenCV, face_recognition, Agile, Scrum, NetLogo
+- **AI & Tools**: OpenCV, face_recognition, Agile, Scrum, NetLogo, TensorFlow, YOLO, LangChain, Dataiku, GoogleADK
 - **Frameworks**: Ionic, VSS, HTML/CSS
 
 ---
