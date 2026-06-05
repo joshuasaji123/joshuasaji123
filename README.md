@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshua Chacko
 
-🎓 **Final Year Computer Science (AI) Student**  
+🎓 **AI Engineer**  
 📍 Based in Dubai, UAE  
 💡 Passionate about leveraging AI for meaningful change  
 🌱 Actively seeking collaborative opportunities in innovative tech spaces
